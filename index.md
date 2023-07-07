@@ -11,7 +11,7 @@ hero:
       text: Yes i will give you money
       link: /markdown-examples
     - theme: alt
-      text: NOOOOOOOO!!!!!!!!
+      text: NOOOOOOOO!!!!!!!!!
       link: /api-examples
 
 features:
