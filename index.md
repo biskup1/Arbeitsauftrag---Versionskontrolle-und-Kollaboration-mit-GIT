@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "you have been hacked"
   text: "give me money"
-  tagline: thanks for the money
+  tagline: tanks for the money
   actions:
     - theme: brand
       text: Yes i will give you money
