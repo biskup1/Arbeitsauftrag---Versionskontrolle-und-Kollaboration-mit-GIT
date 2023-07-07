@@ -3,23 +3,23 @@
 layout: home
 
 hero:
-  name: "Simple VitePress Site"
-  text: "Training Page for Cloud Computing Course"
-  tagline: My great project tagline
+  name: "you have been hacked"
+  text: "give me money"
+  tagline: thanks for the money
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Yes i will give you money
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: NOOOOOOOO!!!!!!!!
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: hacked
+    details: you have been hacked
+  - title: money
+    details: give me money
+  - title: thanks
+    details: thanks for the money
 ---
 
