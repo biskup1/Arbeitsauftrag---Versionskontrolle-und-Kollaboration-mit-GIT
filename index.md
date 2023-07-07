@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "you have been hacked"
-  text: "give me money"
+  text: "give me money!"
   tagline: thanks for the money
   actions:
     - theme: brand
