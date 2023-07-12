@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "you have been hacked"
+  name: "you have been hacked!"
   text: "give me money!"
   tagline: thanks for the money
   actions:
