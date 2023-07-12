@@ -8,7 +8,7 @@ hero:
   tagline: thanks for the money :)
   actions:
     - theme: brand
-      text: Yes i will give you money
+      text: Yes i will give you money <3
       link: /markdown-examples
     - theme: alt
       text: NOOOOOOOO!!!!!!!!!
